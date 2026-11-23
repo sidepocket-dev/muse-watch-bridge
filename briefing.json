@@ -1,6 +1,1 @@
-{
-  "status": "ok",
-  "message": "☀️ 晴れ 14/6℃\n🚃 武蔵野線 平常\n🚆 常磐線 平常",
-  "sub": "📅 予定なし",
-  "state": "working"
-}
+{"status": "ok", "message": "☁️ 曇り 18/6℃\n🚃 武蔵野線 平常\n🚆 常磐線 平常", "sub": "📅 予定なし", "state": "idle", "updated": "2026-11-24T06:41:15+09:00"}
