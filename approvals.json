@@ -1,11 +1,13 @@
 {
-  "pending": [
+  "pending": [],
+  "decisions": [
     {
       "id": "test-20261123-1",
       "title": "テスト承認",
       "detail": "時計のOKボタンの動作テスト",
-      "created": "2026-11-23T23:05:00+09:00"
+      "created": "2026-11-23T23:05:00+09:00",
+      "decision": "approved",
+      "decided_at": "2026-11-23T14:29:27.612Z"
     }
-  ],
-  "decisions": []
+  ]
 }
